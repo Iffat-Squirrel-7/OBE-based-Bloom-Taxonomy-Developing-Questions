@@ -155,6 +155,14 @@ Explain the Adapter pattern. Describe its intent, its participants, one benefit 
 
 ---
 
+<img width="1075" height="1521" alt="exam_page-1 (1)" src="https://github.com/user-attachments/assets/74f1a924-ba83-41ed-948e-aa745eec1ff6" />
+
+
+
+<img width="1075" height="1521" alt="exam_page-2 (1)" src="https://github.com/user-attachments/assets/91fae371-e66c-44bc-8d43-3fb351ddde48" />
+
+
+
 ## 7. Answer Hints (Marking Guide)
 
 Slide numbers refer to the lecture file *4-SoftEng-Design*.
